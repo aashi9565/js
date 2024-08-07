@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.outer{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.product_image{
+    height: 200px;
+    width: 200px;
+}
+.kartimage{
+    height: 200px;
+    width: 200px;
+}
